@@ -27,7 +27,5 @@ const MovieList = (props) => {
     </div>
   );
 };
-MovieList.propTypes = {
-  movies: PropsTypes.array.isRequired,
-};
+
 export default MovieList;

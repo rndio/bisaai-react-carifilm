@@ -44,8 +44,5 @@ const Navbar = ({ onSearch }) => {
     </div>
   );
 };
-Navbar.propTypes = {
-  onSearch: PropTypes.func.isRequired,
-};
 
 export default Navbar;
